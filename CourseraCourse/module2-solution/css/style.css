@@ -6,8 +6,8 @@
 h1
 {
 	font-family: Arial, Helvetica, sans-serif;
-	color: #000000;
-	text-align: center;
+	color: #C6381A;
+	text-align: left;
 }
 
 body
@@ -17,7 +17,7 @@ body
 
 p
 {
-	padding: 10px;
+	padding: 16px;
 	margin:0;
 }
 
@@ -36,9 +36,9 @@ section {
 	border:	1px solid black;
 	background-color: #EAB543;
 	width: 100%;
-	height: 200px;
+	height: 250px;
 	font-family: Helvetica;
-	color: black;
+	color: yellow;
 	position: relative;
 	overflow: auto;
 }
@@ -46,7 +46,7 @@ section {
 .cardhead {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
+	width: 40%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
@@ -82,7 +82,7 @@ section {
 {
   .col-lg-4 
   {
-  	float: left;
+  	float: right;
     width: 33.33%;
   }
 
@@ -94,7 +94,7 @@ section {
   .col-md-6 
   {
   	float: left;
-    width: 50%;
+    width: 70%;
   }
 }
 

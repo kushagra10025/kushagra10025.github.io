@@ -2,3 +2,7 @@
 	path = Portfolio-Sections
 	url = https://github.com/kushagra10025/Portfolio-Sections.git
 	branch = main
+[submodule "npegm"]
+	path = npegm
+	url = https://github.com/kushagra10025/npegm.git
+	branch = main
